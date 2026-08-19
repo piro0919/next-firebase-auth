@@ -59,6 +59,7 @@
     "react"
   ],
   "license": "MIT",
+  "funding": "https://github.com/sponsors/piro0919",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "name": "next-firebase-authentication",
