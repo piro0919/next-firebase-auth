@@ -1,5 +1,5 @@
 {
-  "author": "piro <piro.haniwa@gmail.com> (https://kk-web.link/)",
+  "author": "piro0919 <piro.haniwa@gmail.com> (https://kkweb.io/)",
   "bugs": {
     "url": "https://github.com/piro0919/next-firebase-authentication/issues"
   },
@@ -49,7 +49,7 @@
     "stylelint-scss": "4.7.0",
     "typescript": "4.9.5"
   },
-  "homepage": "https://next-firebase-authentication.kk-web.link",
+  "homepage": "https://github.com/piro0919/next-firebase-authentication#readme",
   "keywords": [
     "authentication",
     "hooks",
